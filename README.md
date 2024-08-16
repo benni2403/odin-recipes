@@ -1,0 +1,1 @@
+This project is about creating a recipe website starting off with just using HTML. Later on i will put some CSS onto it for some flavour
